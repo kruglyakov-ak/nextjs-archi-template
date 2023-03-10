@@ -6,7 +6,7 @@
   "jsxSingleQuote": false,
   "tabWidth": 2,
   "trailingComma": "es5",
-  "jsxBracketSameLine": false,
+  "bracketSameLine": false,
   "semi": false,
   "singleAttributePerLine": true,
   "bracketSpacing": true
